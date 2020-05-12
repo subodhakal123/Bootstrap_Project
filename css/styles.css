@@ -27,12 +27,12 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
-
+ /* giving upper margin to body so that body is not hidden due to navigation bar*/
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
 }
-
+/* assigning color to navigation bar */
 .navbar-dark {
      background-color: #512DA8;
 }
